@@ -1,0 +1,7 @@
+project:
+    name: sampleUnlockedPackage
+    package:
+        name:  SamplePackage
+        api_version: '43.0'
+
+
